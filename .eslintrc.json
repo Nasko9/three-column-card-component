@@ -21,7 +21,6 @@
   },
   "plugins": ["react", "@typescript-eslint"],
   "rules": {
-    "semi": ["error", "always"],
     "quotes": ["error", "single"],
     "react-hooks/exhaustive-deps": "off",
     "react/jsx-uses-react": "error",
