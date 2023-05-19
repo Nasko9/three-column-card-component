@@ -2,7 +2,7 @@
 import CardContainer from './components/CardContainer';
 
 //Data
-import data from './data/cardData.json';
+import { data } from './data/cardData';
 
 function App() {
   return (

@@ -1,5 +1,6 @@
 export interface ICardData {
   id: number;
+  imgUrl: string;
   category: string;
   description: string;
 }

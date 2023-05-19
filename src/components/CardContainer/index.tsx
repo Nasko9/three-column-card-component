@@ -1,5 +1,8 @@
-import { ICardContainer } from '../../types';
+// Components
 import Card from '../Card';
+
+// Type
+import { ICardContainer } from '../../types';
 
 export default function CardContainer({ cardsData }: ICardContainer) {
   return (
