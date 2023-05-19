@@ -6,7 +6,7 @@ This is a solution to the [3-column preview card component](https://www.frontend
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/basic-card-ui-created-in-react-typescript-and-materialui-qSt7gc-xDI)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-solution-with-react-and-tailwind-8X47kr_qb6)
 - Live Site URL: [Live site URL](https://main--dancing-bavarois-cd082b.netlify.app/)
 
 ### Built with
